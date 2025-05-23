@@ -1,0 +1,11 @@
+{
+  "name": "BinanzhToken",
+  "symbol": "BAZH",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "BAZH is a community-driven utility token designed for NFT collectible circulation and decentralized ecosystem participation.",
+  "website": "https://yourwebsite.com",
+  "explorer": "https://etherscan.io/token/0x7e4AAae6Fa686acD91ef48bd7d356147dEa3Edf1",
+  "status": "active",
+  "id": "0x7e4AAae6Fa686acD91ef48bd7d356147dEa3Edf1"
+}
